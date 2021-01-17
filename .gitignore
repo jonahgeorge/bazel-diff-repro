@@ -1,0 +1,4 @@
+bazel-bazel-diff-repro
+bazel-bin
+bazel-out
+bazel-testlogs
